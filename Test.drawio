@@ -49,7 +49,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jd2IswQnN16Qa1Pe7M-v-14" value="Raw Data Storage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="-71" y="363" width="305" height="173" as="geometry" />
+          <mxGeometry x="-89" y="420" width="305" height="173" as="geometry" />
         </mxCell>
         <mxCell id="Jd2IswQnN16Qa1Pe7M-v-15" value="Horizontal scale" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-816" y="-19" width="213" height="30" as="geometry" />
